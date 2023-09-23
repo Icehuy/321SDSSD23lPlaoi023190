@@ -1,3 +1,4 @@
-return {
-"f298f3cd2a8d7712c23fc295940e86c0";
+local hwidlist = {
+    ["123"] = "72a9954f150cc7c11a02fd18624c1dbf";
 }
+return hwidlist
